@@ -1,0 +1,10 @@
+yaml
+cff-version: 1.0.0
+message: "Cite this work using:"
+authors:
+  - family-names: "Martin"
+    given-names: "Doina"
+title: "3D Collatz-Octave Model with Root-Number Quantum Coupling"
+doi: "10.5281/zenodo.15873683
+"
+date-released: 2025-07-13
