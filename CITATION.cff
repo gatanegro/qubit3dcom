@@ -1,10 +1,15 @@
-yaml
 cff-version: 1.0.0
-message: "Cite this work using:"
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "Martin"
-    given-names: "Doina"
-title: "3D Collatz-Octave Model with Root-Number Quantum Coupling"
-doi: "10.5281/zenodo.15873683
-"
+- family-names: "Martin"
+  given-names: "Doina"
+  orcid: "https://orcid.org/0009-0002-3855-2268"
+- family-names: "Martin"
+  given-names: "Doina"
+  orcid: "https://orcid.org/my-orcid?orcid=0009-0002-3855-2268"
+title: "Quantum Signatures in Collatz Sequences: A 3DCOM Quantum
+Implementation with Hardware Optimization"
+version: 1.0.0
+DOI:10.5281/zenodo.15873683
 date-released: 2025-07-13
+url: "https://github.com/gatanegrot/qubit3dcom"
