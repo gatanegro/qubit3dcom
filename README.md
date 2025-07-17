@@ -1,5 +1,5 @@
 # 3DCOM Quantum Collatz Implementation
-DOI:10.5281/zenodo.15873683
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15867363.svg)](https://doi.org/10.5281/zenodo.15867363)
 
 Quantum computing framework for analyzing Collatz sequences through the novel 3DCOM (Three-Dimensional Collatz-Octave Model) approach.
 
